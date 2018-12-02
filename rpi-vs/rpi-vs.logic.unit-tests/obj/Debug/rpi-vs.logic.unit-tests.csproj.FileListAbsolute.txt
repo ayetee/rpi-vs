@@ -1,0 +1,17 @@
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\rpi-vs.logic.unit-tests.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\rpi-vs.logic.unit-tests.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\rpi-vs.logic.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\rpi-vs.models.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\rpi-vs.logic.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\rpi-vs.models.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\obj\Debug\rpi-vs.logic.unit-tests.csprojResolveAssemblyReference.cache
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\obj\Debug\rpi-vs.logic.unit-tests.csproj.CoreCompileInputs.cache
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\obj\Debug\rpi-vs.logic.unit-tests.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic.unit-tests\obj\Debug\rpi-vs.logic.unit-tests.pdb

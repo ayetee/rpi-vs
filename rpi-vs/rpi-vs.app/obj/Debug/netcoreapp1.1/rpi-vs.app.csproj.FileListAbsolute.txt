@@ -1,0 +1,14 @@
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.app.deps.json
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.app.runtimeconfig.json
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.app.runtimeconfig.dev.json
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.app.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.app.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.logic.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.models.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.logic.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\bin\Debug\netcoreapp1.1\rpi-vs.models.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\obj\Debug\netcoreapp1.1\rpi-vs.app.csprojResolveAssemblyReference.cache
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\obj\Debug\netcoreapp1.1\rpi-vs.app.csproj.CoreCompileInputs.cache
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\obj\Debug\netcoreapp1.1\rpi-vs.app.AssemblyInfo.cs
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\obj\Debug\netcoreapp1.1\rpi-vs.app.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.app\obj\Debug\netcoreapp1.1\rpi-vs.app.pdb

@@ -1,0 +1,8 @@
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\bin\Debug\rpi-vs.logic.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\bin\Debug\rpi-vs.logic.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\bin\Debug\rpi-vs.models.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\bin\Debug\rpi-vs.models.pdb
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\obj\Debug\rpi-vs.logic.csprojResolveAssemblyReference.cache
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\obj\Debug\rpi-vs.logic.csproj.CoreCompileInputs.cache
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\obj\Debug\rpi-vs.logic.dll
+c:\code\rpi-vs\rpi-vs\rpi-vs.logic\obj\Debug\rpi-vs.logic.pdb

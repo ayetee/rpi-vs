@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\rpi-vs.logic\rpi-vs.logic.csproj" />
+    <ProjectReference Include="..\rpi-vs.models\rpi-vs.models.csproj" />
+  </ItemGroup>
+
+</Project>
